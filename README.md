@@ -1,4 +1,4 @@
-# CitiBike-Leaflet-Project-3
+# CitiBike-Leaflet-Project
 Citi Bike Maps
 
 In this activity, you’ll use the Citi Bike API to get the status and location of every Citi Bike station in New York City. This activity also includes a bonus portion.
